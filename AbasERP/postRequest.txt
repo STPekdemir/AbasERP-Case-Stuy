@@ -1,0 +1,1 @@
+POST Response Status Code: 200POST Response Body: {"id":"ff80818190c0e1170190cac1969d1057","name":"Apple MacBook Pro 16","createdAt":"2024-07-19T11:30:03.037+00:00","data":{"year":2019,"price":1849.99,"CPU model":"Intel Core i9","Hard disk size":"1 TB"}}
